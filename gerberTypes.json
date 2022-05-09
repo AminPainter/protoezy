@@ -1,0 +1,130 @@
+[
+    {
+        "ext": "apr",
+        "desc": "aperture file"
+    },
+    {
+        "ext": "apt",
+        "desc": "aperture file"
+    },
+    {
+        "ext": "extrep",
+        "desc": "extension report"
+    },
+    {
+        "ext": "rep",
+        "desc": "report of individual layer"
+    },
+    {
+        "ext": "rul",
+        "desc": "DRC rules"
+    },
+    {
+        "ext": "gko",
+        "desc": "kepp out layer"
+    },
+    {
+        "ext": "gto",
+        "desc": "top overlay"
+    },
+    {
+        "ext": "gbo",
+        "desc": "bottom overlay"
+    },
+    {
+        "ext": "gpt",
+        "desc": "pad master top"
+    },
+    {
+        "ext": "gpb",
+        "desc": "pad master bottom"
+    },
+    {
+        "ext": "gts",
+        "desc": "top solder"
+    },
+    {
+        "ext": "gbs",
+        "desc": "bottom solder"
+    },
+    {
+        "ext": "gtl",
+        "desc": "top layer"
+    },
+    {
+        "ext": "gbl",
+        "desc": "bottom layer"
+    },
+    {
+        "ext": "gtp",
+        "desc": "top paste"
+    },
+    {
+        "ext": "gbp",
+        "desc": "bottom paste"
+    },
+    {
+        "ext": "g1",
+        "desc": "mid layer 1"
+    },
+    {
+        "ext": "g2",
+        "desc": "mid layer 2"
+    },
+    {
+        "ext": "gp1",
+        "desc": "internal plane layer 1"
+    },
+    {
+        "ext": "gp2",
+        "desc": "internal plane layer 2"
+    },
+    {
+        "ext": "p01",
+        "desc": "gerber panels"
+    },
+    {
+        "ext": "p02",
+        "desc": "gerber panels"
+    },
+    {
+        "ext": "gm1",
+        "desc": "mechanical layer 1"
+    },
+    {
+        "ext": "gm2",
+        "desc": "mechanical layer 2"
+    },
+    {
+        "ext": "gd1",
+        "desc": "drill drawing"
+    },
+    {
+        "ext": "gd2",
+        "desc": "drill drawing"
+    },
+    {
+        "ext": "gg1",
+        "desc": "drill guide"
+    },
+    {
+        "ext": "gg2",
+        "desc": "drill guide"
+    },
+    {
+        "ext": "drl",
+        "desc": "drill data"
+    },
+    {
+        "ext": "txt",
+        "desc": "drill position"
+    },
+    {
+        "ext": "ddr",
+        "desc": "drill tool size"
+    },
+    {
+        "ext": "ldp",
+        "desc": "layer pairs export file for PCB"
+    }
+]
